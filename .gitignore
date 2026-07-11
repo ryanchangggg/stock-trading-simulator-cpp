@@ -1,0 +1,11 @@
+build/
+*.db
+.DS_Store
+cmake-build-*/
+.idea/
+*.swp
+*.swo
+*~
+__pycache__/
+vcpkg/
+vcpkg_installed/
