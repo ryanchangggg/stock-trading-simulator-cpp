@@ -106,4 +106,4 @@ on startup to set initial prices.
 
 ## License
 
-University capstone project — Object-Oriented Programming.
+MIT
