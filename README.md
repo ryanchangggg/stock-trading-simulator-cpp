@@ -104,6 +104,14 @@ The `data/stocks/` directory contains 507 CSV files with OHLCV data
 for US equities (2013-2018 period). The first row of each file is loaded
 on startup to set initial prices.
 
+## Disclaimer
+
+This repository is intended for educational and research purposes only.
+The software, code, models, and any accompanying materials do not constitute investment, financial, legal, or tax advice.
+All investment decisions are made solely at the user's own risk. The authors assume no responsibility or liability for any financial losses or damages arising from the use of this project.
+Past performance, backtesting results, and simulated trading outcomes do not guarantee future performance.
+This software is provided "AS IS", without warranty of any kind.
+
 ## License
 
 MIT
